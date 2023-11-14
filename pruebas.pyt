@@ -1,2 +1,5 @@
 
 int a;
+
+int b;
+
