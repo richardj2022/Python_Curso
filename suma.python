@@ -1,6 +1,2 @@
-int a;
-
-int b;
-int suma;
-a = 1;
-b = 2;
+n1 = input("¿Dime el primer número?")
+n2 = input("¿Dime el segundo número?")
