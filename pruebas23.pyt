@@ -1,0 +1,1 @@
+horas = float(input("Introduce tus horas de trabajo: "))
