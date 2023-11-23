@@ -1,0 +1,1 @@
+peso = input("¿Cuál es tu peso en kg? ")
