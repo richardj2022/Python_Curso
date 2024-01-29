@@ -26,4 +26,7 @@ print(type(iva))
 activo = True
 print(activo)
 print(type(activo))
-
+# Tipo de dato None
+contenido = None
+print(contenido)
+print(type(contenido))
