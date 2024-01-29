@@ -23,4 +23,7 @@ iva = "6"
 print(iva)
 print(type(iva))
 # Tipo de datos Booleanos:  Un dato Booleano que solo puede tener dos posibles valores TRUE O FALSE
+activo = True
+print(activo)
+print(type(activo))
 
