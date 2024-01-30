@@ -32,4 +32,9 @@ print(contenido)
 print(type(contenido))
 
 # Lo que se puede hacer con estos datos 
-
+# cambiar el tipo de variable
+iva = int(iva)
+# ejemplo de calculo
+precio_final = 300
+precio_final_con_iva = precio_final * iva / 100
+print(precio_final_con_iva)
