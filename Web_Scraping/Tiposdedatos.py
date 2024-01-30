@@ -18,7 +18,7 @@ print(type(descuento))
 nombre = "Iphone"
 print(nombre)
 print(type(nombre))
-# Tipo de dato cadana de texto  
+# Tipo de dato cadena de texto  
 iva = "6"
 print(iva)
 print(type(iva))
@@ -30,3 +30,6 @@ print(type(activo))
 contenido = None
 print(contenido)
 print(type(contenido))
+
+# Lo que se puede hacer con estos datos 
+
