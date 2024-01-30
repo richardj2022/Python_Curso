@@ -33,7 +33,12 @@ print(type(contenido))
 
 # Lo que se puede hacer con estos datos 
 # cambiar el tipo de variable
+#entero
 iva = int(iva)
+# de tipo float
+#iva = float(iva)
+#tipo texto
+#iva = str(iva)
 # ejemplo de calculo
 precio_final = 300
 precio_final_con_iva = precio_final * iva / 100
