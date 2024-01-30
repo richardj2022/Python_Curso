@@ -43,3 +43,5 @@ iva = int(iva)
 precio_final = 300
 precio_final_con_iva = precio_final * iva / 100
 print(precio_final_con_iva)
+texto = 'y yo le dije:"hola"'
+print(texto)
