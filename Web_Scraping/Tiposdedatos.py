@@ -60,3 +60,7 @@ print(raya)
 # Podemos saber cuanto caracteres tiene STRING
 a=len(raya)
 print(a)
+# Se puede añadir valor a una variable 
+precio = 40
+precio +=10
+print(precio)
