@@ -72,5 +72,5 @@ print(suma)
 print(raya)
 # Se puede añadir valor a una variable datos String
 rayas = "Hola"
-rayas += "Prueba de string"
+rayas += " " + "Prueba de string"
 print(rayas) 
