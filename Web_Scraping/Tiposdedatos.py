@@ -84,3 +84,7 @@ print (nombres)
 print(nombres.upper())
 # poner en Minúscula
 print(nombres.lower())
+# Para remplazar un texto
+texto1 = "La lluvia en Cuenca es una maravilla"
+print(texto1.replace("Cuenca","Loja"))
+
