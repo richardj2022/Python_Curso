@@ -82,3 +82,5 @@ nombres = "Juan"
 print (nombres)
 # Poner en mayúscula
 print(nombres.upper())
+# poner en Minúscula
+print(nombres.lower())
