@@ -70,4 +70,7 @@ suma = 40
 suma -=30
 print(suma)
 print(raya)
-# Se p
+# Se puede añadir valor a una variable datos String
+rayas = "Hola"
+rayas += "Prueba de string"
+print(rayas) 
