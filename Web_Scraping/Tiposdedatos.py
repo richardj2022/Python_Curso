@@ -50,3 +50,6 @@ nombre = "Javier"
 apellido = "Gomez"
 nombre_completo = nombre +" "+ apellido
 print(nombre_completo)
+edad = 25
+nombre_completo_edad = nombre_completo + " " + edad
+print(nombre_completo_edad)
