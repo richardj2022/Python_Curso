@@ -74,3 +74,7 @@ print(raya)
 rayas = "Hola"
 rayas += " " + "Prueba de string"
 print(rayas) 
+# Operaciones con cadenas de texto
+nombres = "Richard"
+print (nombres)
+nombres = "Juan"
