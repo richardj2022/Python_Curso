@@ -45,3 +45,4 @@ precio_final_con_iva = precio_final * iva / 100
 print(precio_final_con_iva)
 texto = 'y yo le dije:"hola"'
 print(texto)
+# tipo de datos string o cadenas de texto
