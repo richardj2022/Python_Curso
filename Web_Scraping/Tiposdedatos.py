@@ -50,6 +50,7 @@ nombre = "Javier"
 apellido = "Gomez"
 nombre_completo = nombre +" "+ apellido
 print(nombre_completo)
+# tipo cambio de variable en este caso a string
 edad = 25
-nombre_completo_edad = nombre_completo + " " + edad
+nombre_completo_edad = nombre_completo + " " + str(edad)
 print(nombre_completo_edad)
