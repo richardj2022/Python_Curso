@@ -75,6 +75,10 @@ rayas = "Hola"
 rayas += " " + "Prueba de string"
 print(rayas) 
 # Operaciones con cadenas de texto
+print(raya)
 nombres = "Richard"
-print (nombres)
+#print (nombres)
 nombres = "Juan"
+print (nombres)
+# Poner en mayúscula
+print(nombres.upper())
