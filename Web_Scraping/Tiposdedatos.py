@@ -56,3 +56,4 @@ nombre_completo_edad = nombre_completo + " " + str(edad)
 print(nombre_completo_edad)
 # utilizar * para repetir tantas veces como le indiquemos
 raya = "-"*30
+print = (raya)
