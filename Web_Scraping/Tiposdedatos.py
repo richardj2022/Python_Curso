@@ -55,5 +55,8 @@ edad = 25
 nombre_completo_edad = nombre_completo + " " + str(edad)
 print(nombre_completo_edad)
 # utilizar * para repetir tantas veces como le indiquemos
-raya = "-"*30
+raya = "-"*60
 print(raya)
+# Podemos saber cuanto caracteres tiene STRING
+a=len(raya)
+print(a)
