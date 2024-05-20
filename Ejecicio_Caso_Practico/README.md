@@ -15,7 +15,23 @@
 
     - En la opcion 3, se debe mostrar la suma del area y perimetro de todas las figuras ingresadas.
 
-    - Se sugiere utilizar la gerarquia de calse con herencias.
-    
+    - Se sugiere utilizar la gerarquia de clase con herencias.
+
+    - La clase base seria la **'FiguraGeometrica'**, define metodos para calcular el area y el perimetro, que son implementados por las subclases Circulo y Trinagulo.
+
+    - Se requiere una clase **'CalculadoraFiguras'** para agregar las figuras y calcular el total de area y perimetro.
+
+#### Infromacion adicional
      
+    - Calculo del Circulo.
+        
+        - P = 2 * pi * r
+        - A = pi * r^2 
+    
+    - Calcular del Triangulo
+
+        - Perimetro >>>   s = (a + b + c) / 2
+
+        - Area >>> A = √ s(s-a)(s-b)(s-c)
+
 
