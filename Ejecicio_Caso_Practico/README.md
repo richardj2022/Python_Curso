@@ -1,8 +1,8 @@
 # **CASO PRACTICO DESARROLLO EN PYTHON**
 
-### Descripcion 
+### Descripción  
 
-- Se requiere que con el lenguaje de programación **Python**, y utilizado la *- programacion orientada a objetos -* se realice un programa con las siguientes caracteristicas:
+- Se requiere que con el lenguaje de programación **Python**, y utilizado la *- programación orientada a objetos -* se realice un programa con las siguientes características:
 
     - Se require que el program contenga el siguiente menu:
 
@@ -11,17 +11,17 @@
         - 3. Calcular Totales.
         - 4. Salir.
 
-    -  Con las opciones 1,2 se ingresa las dimenciones de la figura geometrica y se almacena para posteriro calculo de area  y el perimetro.
+    -  Con las opciones 1,2 se ingresa las dimensiones de la figura geométrica y se almacena para posterior calculo de area  y el perímetro.
 
-    - En la opcion 3, se debe mostrar la suma del area y perimetro de todas las figuras ingresadas.
+    - En la opción 3, se debe mostrar la suma del area y perímetro de todas las figuras ingresadas.
 
-    - Se sugiere utilizar la gerarquia de clase con herencias.
+    - Se sugiere utilizar la jerarquía de clase con herencias.
 
-    - La clase base seria la **'FiguraGeometrica'**, define metodos para calcular el area y el perimetro, que son implementados por las subclases Circulo y Trinagulo.
+    - La clase base seria la **'FiguraGeométrica'**, define métodos para calcular el area y el perímetro, que son implementados por las subclases Circulo y Trianguló.
 
-    - Se requiere una clase **'CalculadoraFiguras'** para agregar las figuras y calcular el total de area y perimetro.
+    - Se requiere una clase **'CalculadoraFiguras'** para agregar las figuras y calcular el total de area y perímetro.
 
-#### Infromacion adicional
+#### Información adicional
      
     - Calculo del Circulo.
         
@@ -30,7 +30,7 @@
     
     - Calcular del Triangulo
 
-        - Perimetro >>>   s = (a + b + c) / 2
+        - Perímetro >>>   s = (a + b + c) / 2
 
         - Area >>> A = √ s(s-a)(s-b)(s-c)
 
