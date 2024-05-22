@@ -22,16 +22,11 @@
     - Se requiere una clase **'CalculadoraFiguras'** para agregar las figuras y calcular el total de area y perímetro.
 
 #### Información adicional
-     
     - Calculo del Circulo.
-        
         - P = 2 * pi * r
         - A = pi * r^2 
-    
     - Calcular del Triangulo
-
         - Perímetro >>>   s = (a + b + c) / 2
-
         - Area >>> A = √ s(s-a)(s-b)(s-c)
 
 
