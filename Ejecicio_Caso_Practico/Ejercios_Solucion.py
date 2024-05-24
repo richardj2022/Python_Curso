@@ -12,6 +12,9 @@ class FiguraGeometrica():
 def CalculadoraFiguras():
     "Realizar calculo"   
 
+def Salir():
+    "Salir"
+  
 while True:
     print("***Que desea realizar***")
     print("1. Agregar Círculo.")   
